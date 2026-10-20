@@ -1,21 +1,6 @@
 # TMDB Movie Success Analysis and Prediction
 
-![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)
-![Pandas](https://img.shields.io/badge/Pandas-2.0+-150458.svg)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.0+-F7931E.svg)
-
 An end-to-end data science project that collects, cleans, analyzes, and models a dataset of 5,000 popular movies from The Movie Database (TMDB) API. The goal is to uncover insights into what drives a movie's financial success and to build a predictive model for estimating profit and audience ratings.
-
-## Table of Contents
-- [Demo](#demo)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [How It Works](#how-it-works)
-- [Key Visualizations](#key-visualizations)
-- [Model Performance](#model-performance)
-- [Project Structure](#project-structure)
-- [Known Limitations](#known-limitations)
 
 ## Demo
 
