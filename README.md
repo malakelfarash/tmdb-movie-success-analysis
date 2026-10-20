@@ -23,7 +23,7 @@ An end-to-end data science project that collects, cleans, analyzes, and models a
 ![Correlation Heatmap](heatmap.png)
 
 *Budget vs. Revenue Analysis*
-![Budget vs Revenue](scatter.png)
+![Budget vs Revenue](scatterplot.png)
 
 *Genre Word Cloud*
 ![Genre Word Cloud](wordcloud.png)
@@ -40,14 +40,14 @@ An end-to-end data science project that collects, cleans, analyzes, and models a
 
 - **Language:** Python 3.12+
 - **Libraries:**
-  - `pandas` — Data manipulation and analysis
-  - `numpy` — Numerical operations
-  - `matplotlib` — Base plotting library
-  - `seaborn` — Statistical data visualization
-  - `scikit-learn` — Machine learning models and preprocessing
-  - `requests` — API calls to TMDB
-  - `wordcloud` — Generating the genre word cloud
-  - `matplotlib-venn` — Venn diagrams for comparison plots
+  - `pandas`: Data manipulation and analysis
+  - `numpy`: Numerical operations
+  - `matplotlib`: Base plotting library
+  - `seaborn`: Statistical data visualization
+  - `scikit-learn`: Machine learning models and preprocessing
+  - `requests`: API calls to TMDB
+  - `wordcloud`: Generating the genre word cloud
+  - `matplotlib-venn`: Venn diagrams for comparison plots
 - **Algorithms:** Linear Regression, Random Forest Regression
 - **Data Source:** [The Movie Database (TMDB) API](https://www.themoviedb.org/documentation/api)
 
