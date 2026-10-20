@@ -44,6 +44,6 @@ An end-to-end data science project that collects, cleans, analyzes, and models a
 
 ### Installation
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/YourUsername/tmdb-movie-success-analysis.git
