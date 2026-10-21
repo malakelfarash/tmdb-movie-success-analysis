@@ -5,13 +5,13 @@ An end-to-end data science project that collects, cleans, analyzes, and models a
 ## Demo
 
 *Exploratory Data Analysis - Correlation Heatmap*
-![Correlation Heatmap](heatmap.png)
+![Correlation Heatmap](images/heatmap.png)
 
 *Budget vs. Revenue Analysis*
-![Budget vs Revenue](scatterplot.png)
+![Budget vs Revenue](images/scatterplot.png)
 
 *Genre Word Cloud*
-![Genre Word Cloud](wordcloud.png)
+![Genre Word Cloud](images/wordcloud.png)
 
 ## Features
 
